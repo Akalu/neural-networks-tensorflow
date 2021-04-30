@@ -1,0 +1,6 @@
+name: test-tf
+dependencies:
+  - python=3.8
+  - jupyter
+  - ipython
+  - pandas
