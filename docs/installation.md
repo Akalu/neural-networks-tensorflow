@@ -117,3 +117,18 @@ jupyter notebook
 It starts by http://localhost:8888
 
 
+
+A newly created conda environment one can use along with PyCharm or similar IDEs:
+
+1) Click on Configure -> Settings to open up settings in PyCharm
+
+2) Navigate to Project -> Project Interpreter
+
+3) Click on Add local via the Settings button
+
+4) Select "conda environment"
+
+5) Click on "Existing environment" and navigate to the environment that you want to use. Note that you have to select the bin/python file inside the conda environment for PyCharm to be able to recognise the environment
+
+6) Make sure to click the "Make available to all projects" if you want the interpreter to be used by multiple projects
+
