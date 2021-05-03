@@ -1,7 +1,7 @@
 About
 ======
 
-Learning neural networks using TensorFlow 2.0
+Building neural networks with the help of TensorFlow 2.0
 
 Topics have been covered so far:
 

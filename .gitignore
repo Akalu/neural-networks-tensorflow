@@ -114,4 +114,6 @@ ENV/
 *.DS_Store
 *.pytest_cache
 
+# ML generated data
 train/
+dnn*/
