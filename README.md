@@ -1,12 +1,14 @@
 About
 ======
 
-Building neural networks with the help of TensorFlow 2.0
+Building neural networks and data processing tools with the help of TensorFlow 2.0
 
 Topics have been covered so far:
 
-* basics of TensorFlow
-* types of neural networks
+* basics of TensorFlow (NumPy, Pandas, Keras)
+* linear regression, dnn regression
+* comparable analysis of different types of neural networks
+* implementation of RNN
 
 
 Overview
