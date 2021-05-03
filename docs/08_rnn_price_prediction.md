@@ -59,9 +59,7 @@ Before to construct the model, you need to split the dataset into a train set an
 ### Step 4. Normalize data
 
 
-### Step 5. Implementing DNN regression
-
-
+### Step 5. Implement RNN model
 
 
 ### Step 6. Performance
