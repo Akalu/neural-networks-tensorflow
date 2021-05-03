@@ -6,7 +6,7 @@ Requirements:
 * Anaconda Distribution Package.
 
 1) download and install the latest version of Anaconda from https://www.anaconda.com/products/individual
-2) activate c:\ProgramData\Anaconda3\Scripts\activate.bat base
+2) activate c:\ProgramData\Anaconda3\Scripts\activate base
 
 Create a test environment for ML projects
 
